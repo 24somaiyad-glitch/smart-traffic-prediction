@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-score,CV Accuracy (5-fold)
+Random Forest,0.7533,0.7555,0.7533,0.7543,0.747
+Logistic Regression,0.7459,0.7459,0.7459,0.7458,0.7462
+Decision Tree,0.7386,0.7365,0.7386,0.7373,0.7274
+KNN,0.712,0.709,0.712,0.7103,0.7392
+Naive Bayes,0.6913,0.6819,0.6913,0.6649,0.6716

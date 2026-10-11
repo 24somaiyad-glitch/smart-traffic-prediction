@@ -1,0 +1,29 @@
+{
+  "raw_rows": 3530,
+  "missing": 101,
+  "duplicates": 146,
+  "outliers_capped": 8,
+  "clean_rows": 3384,
+  "train_rows": 2707,
+  "test_rows": 677,
+  "best_model": "Random Forest",
+  "linear_regression": {
+    "MAE": 1.9253494879873145,
+    "RMSE": 2.461525851750358,
+    "R2": 0.8333648270575216
+  },
+  "choices": {
+    "Weather": [
+      "Clear",
+      "Cloudy",
+      "Rain",
+      "Fog"
+    ],
+    "Area": [
+      "Downtown",
+      "Highway",
+      "Industrial",
+      "Residential"
+    ]
+  }
+}
